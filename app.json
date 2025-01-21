@@ -34,7 +34,7 @@
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": true,
-      "value": "public"
+      "value": "private"
     }, 
 
     "AUTO_VOICE": {
